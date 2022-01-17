@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/diegograssino/grassino-programacion-backend/issues"
   },
-  "homepage": "https://github.com/diegograssino/grassino-programacion-backend#readme"
+  "homepage": "https://github.com/diegograssino/grassino-programacion-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
